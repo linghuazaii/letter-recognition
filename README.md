@@ -1,1 +1,2 @@
-# letter-recognition
+# Letter Recognition
+
