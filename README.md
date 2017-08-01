@@ -2,7 +2,7 @@
 
 ### Features
 These features are mentioned in [[resource/letter-recognition.pdf]](https://github.com/linghuazaii/letter-recognition/blob/master/resource/letter-recognition.pdf)  
-The image rectangle is called `Box` and the smallest rectangle containing the letter is called `Rectangle` in the context. Pixels on black part of the Rectangle is marked as on, marked as off for the white part. Center point of the axes is the center of the Rectangle named as Center in the context.  
+The image rectangle is called `Box` and the smallest rectangle containing the letter is called `Rectangle` in the context. Pixels on black part of the Rectangle is marked as on, marked as off for the white part. Center point of the axes is the center of the Rectangle named as `Center` in the context.  
  - horizontal position (integer):  pixels from left of the Box to the center of the Rectangle.  
  - vertical position (integer): pixels from bottom of the Box to the center of the Rectangle.  
  - width (integer): in pixels, width of the Rectangle  
